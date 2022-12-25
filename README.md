@@ -13,6 +13,8 @@ For example change the identifier to Anilist and that would let you call Anilist
 
 And thats it! Now the library is added to your script and you can start to call all the methods when you need to. Watch this repo so you can know when new builds are ready to be switched to.
 
+If you don't understand then go to the [google help page for libraries](https://developers.google.com/apps-script/guides/libraries).
+
 ### Do not do merges or PRs because this code is just copy pasted it isnt actually synced with my code on Google App Script
 
 *I am in no means an expert! If you notice something is wrong or can be done better make an issue and I'll check it out.*
