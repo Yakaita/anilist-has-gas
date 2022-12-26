@@ -1,6 +1,6 @@
 ### What is this?
 
-This is the source code to my library for connecting to Anilist's API for use in spreadsheets or what have you complete with autocomplete and JSDocs.
+This is the source code to my library for connecting to Anilist's API for use in spreadsheets or what have you complete with autocomplete and JSDocs. **This is not associated with Anilist. It is just something I made to make it easier to connect with for my spreadsheets!**
 
 ### How do I use this?
 
