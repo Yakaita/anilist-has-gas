@@ -199,7 +199,6 @@ function getRelatedMediaChain(id, ignoreRelationTypes = [], ignoreFormatTypes = 
     }
 
     for(i = 0; i < relationJson.length; i++){
-
       if(ignoreRelationTypes.indexOf(relationJson[i].relationType) != -1) continue;
       if(ignoreFormatTypes.indexOf(relationJson[i].node.format) != -1) continue;
       
@@ -234,6 +233,7 @@ function getRelations(id){
           node{
             type
             id
+            format
           }
         }
       }
